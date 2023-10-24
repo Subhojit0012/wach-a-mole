@@ -1,0 +1,15 @@
+.grid{
+    display: flex;
+    width: 605px;
+    height: 605px;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 200px;
+    width: 200px;
+    border: 1px solid #111;
+}
+.mole{
+    background-color: blueviolet;
+}
